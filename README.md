@@ -12,7 +12,7 @@
   -------------------------------------------------------------------
   
   Tecnologias usadas:
-    SpringBot, Mysql, JavaScript, CSS/HTML, Bootstrap.
+    SpringBot, Mysql, JavaScript, CSS/HTML, Bootstrap e linguagem C com fins acadêmicos 
 
   Tecnologias que atualmente estou aprofundando meus conhecimentos:
     ASP.NET, .NET, Azure.
