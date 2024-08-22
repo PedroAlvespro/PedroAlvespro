@@ -3,11 +3,13 @@
 
  ACADÊMICO EM SISTEMAS DE INFORMÇÃO - UNIVERSIDADE FEDERAL DO CEARÁ
    ------------------------------->
+   
  TÉCNICO EM INFORMÁTICA 
    ------------------------------->
+   
  DESENVOLVEDOR WEB 
    ------------------------------->
-  
+   
   Tecnologias usadas:
     SpringBoot, Mysql, Aws, JavaScript, CSS/HTML, Bootstrap e linguagem C com fins acadêmicos 
 
