@@ -1,23 +1,20 @@
-## Hi there 👋
+## OI! 👋
+## SOU UM DESENVOLVEDOR DE SOFTWARES E RESOLVEDOR DE PROBLEMAS!
 
-  Olá, seja bem vindo !
-
-  Acadêmico em Sistemas de Informação - UFC
-  -----------------------------------------
-  Desenvolvedor Web
-  Full Stack Developer
-  
-  Técnico em Informática
-  
-  -------------------------------------------------------------------
+ ACADÊMICO EM SISTEMAS DE INFORMÇÃO - UNIVERSIDADE FEDERAL DO CEARÁ
+   ------------------------------->
+ TÉCNICO EM INFORMÁTICA 
+   ------------------------------->
+ DESENVOLVEDOR WEB 
+   ------------------------------->
   
   Tecnologias usadas:
-    SpringBot, Mysql, JavaScript, CSS/HTML, Bootstrap e linguagem C com fins acadêmicos 
+    SpringBoot, Mysql, Aws, JavaScript, CSS/HTML, Bootstrap e linguagem C com fins acadêmicos 
 
   Tecnologias que atualmente estou aprofundando meus conhecimentos:
-    ASP.NET, .NET, Azure.
+    React, TypeScript, ASP.NET, .NET, Azure.
  
   Outras habilidades:
-  AWS, Scrum e outras metodologias ágeis, Inglês.
+    Scrum e outras metodologias ágeis, Inglês.
 
   
