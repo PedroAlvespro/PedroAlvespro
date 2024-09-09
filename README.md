@@ -1,5 +1,5 @@
 ## OI! 👋
-## SOU UM DESENVOLVEDOR DE SOFTWARES E RESOLVEDOR DE PROBLEMAS!
+## SOU ESTUDANTE DE DESENVOLVEVIMENTO DE SOFTWARE E ANÁLISE DE QUALIDADE!
 
  ACADÊMICO EM SISTEMAS DE INFORMÇÃO - UNIVERSIDADE FEDERAL DO CEARÁ
    ------------------------------->
@@ -11,10 +11,8 @@
    ------------------------------->
    
   Tecnologias usadas:
-    SpringBoot, Mysql, Aws, JavaScript, CSS/HTML, Bootstrap e linguagem C com fins acadêmicos 
-
-  Tecnologias que atualmente estou aprofundando meus conhecimentos:
-    React, TypeScript, ASP.NET, .NET, Azure.
+   C#, React, Java SpringBoot e linguagem C com fins acadêmicos 
+    Teste Unitários com C# e Teste de APIREST
  
   Outras habilidades:
     Scrum e outras metodologias ágeis, Inglês.
