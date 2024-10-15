@@ -18,4 +18,4 @@
 
 </div>
 
-Desenvolvedor de Software apaixonado por tecnologia.
+Desenvolvedor de Software apaixonado por tecnologia
