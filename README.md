@@ -19,5 +19,9 @@
   <img align="center" alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 
 </div>
+<br>
 
 Desenvolvedor de Software apaixonado por tecnologia.
+Desenvolvedor Trainee na Trimap Sistemas e Serviços.
+Acadêmico em Sistemas de informação. - Universidade Federal do Ceará.
+Desenvolvedor Web.
