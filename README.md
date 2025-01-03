@@ -21,7 +21,7 @@
 </div>
 <br>
 
-Desenvolvedor de Software apaixonado por tecnologia. <br>
-Desenvolvedor Trainee na Trimap Sistemas e Serviços. <br>
-Acadêmico em Sistemas de informação. - Universidade Federal do Ceará. <br>
-Desenvolvedor Web. <br>
+Desenvolvedor de Software apaixonado por tecnologia <br>
+Desenvolvedor Trainee na Trimap Sistemas e Serviços <br>
+Acadêmico em Sistemas de informação. - Universidade Federal do Ceará <br>
+Desenvolvedor Web <br>
